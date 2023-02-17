@@ -1,0 +1,15 @@
+C:\Users\Мария\Desktop\domaska 3\DZ19\obj\Debug\net6.0\DZ19.csproj.AssemblyReference.cache
+C:\Users\Мария\Desktop\domaska 3\DZ19\obj\Debug\net6.0\DZ19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мария\Desktop\domaska 3\DZ19\obj\Debug\net6.0\DZ19.AssemblyInfoInputs.cache
+C:\Users\Мария\Desktop\domaska 3\DZ19\obj\Debug\net6.0\DZ19.AssemblyInfo.cs
+C:\Users\Мария\Desktop\domaska 3\DZ19\obj\Debug\net6.0\DZ19.csproj.CoreCompileInputs.cache
+C:\Users\Мария\Desktop\domaska 3\DZ19\bin\Debug\net6.0\DZ19.exe
+C:\Users\Мария\Desktop\domaska 3\DZ19\bin\Debug\net6.0\DZ19.deps.json
+C:\Users\Мария\Desktop\domaska 3\DZ19\bin\Debug\net6.0\DZ19.runtimeconfig.json
+C:\Users\Мария\Desktop\domaska 3\DZ19\bin\Debug\net6.0\DZ19.dll
+C:\Users\Мария\Desktop\domaska 3\DZ19\bin\Debug\net6.0\DZ19.pdb
+C:\Users\Мария\Desktop\domaska 3\DZ19\obj\Debug\net6.0\DZ19.dll
+C:\Users\Мария\Desktop\domaska 3\DZ19\obj\Debug\net6.0\refint\DZ19.dll
+C:\Users\Мария\Desktop\domaska 3\DZ19\obj\Debug\net6.0\DZ19.pdb
+C:\Users\Мария\Desktop\domaska 3\DZ19\obj\Debug\net6.0\DZ19.genruntimeconfig.cache
+C:\Users\Мария\Desktop\domaska 3\DZ19\obj\Debug\net6.0\ref\DZ19.dll
