@@ -3,23 +3,24 @@
 // 3 -> 1, 8, 27
 // 5 -> 1, 8, 27, 64, 125
 
-
-Console.WriteLine("Введите любое положительное число:");
-int N = int.Parse(Console.ReadLine()!);
-
 // пишем функцию нахождения куба
-void TableCubesNumbers()
+string TableCubesNumbers(int n)
 {
     double Count = 1;
     double Cub = 1;
-    while (Count <= N)
+    string result = "";
+    while (Count <= n)
     {
-        Cub = Math.Pow (Count,3); // Встроенная функция возведения в степень, где 3- куб
+        Cub = Math.Pow(Count, 3); // Встроенная функция возведения в степень, где 3- куб
         Count++;
-        Console.Write(Cub + ", ");
+        result = result + Cub + ",";
+        //Console.Write(Cub + ", ");
     }
+    return result;
 }
-
+Console.WriteLine("Введите любое положительное число:");
+int N = int.Parse(Console.ReadLine()!);
 // вызываем функцию кубов
- TableCubesNumbers();
+string cub2 = TableCubesNumbers(N);
+Console.WriteLine(cub2);
 
